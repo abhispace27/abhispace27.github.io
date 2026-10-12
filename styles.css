@@ -353,7 +353,7 @@ section {
 
 .project-content p {
   color:var(--muted);
-  font-size:18px;
+  font-size:22px;
   max-width:490px;
 }
 
@@ -437,7 +437,7 @@ section {
 
 .about-copy {
   color:#c4d3c9;
-  font-size:18px;
+  font-size:22px;
 }
 
 .skill-grid {
@@ -448,14 +448,14 @@ section {
 }
 
 .skill-grid h3 {
-  font-size:16px;
+  font-size:20px;
   font-weight:700;
   color:var(--green);
   letter-spacing:.04em;
 }
 
 .skill-grid p {
-  font-size:16px;
+  font-size:20px;
   color:#c4d3c9;
   line-height:1.65;
   margin-bottom:0;
