@@ -33,3 +33,37 @@
     font-size: 36px;
   }
 }
+
+/* Skills: Programming, Scientific computing, etc. */
+.skill-grid h3 {
+  font-size: 18px;
+  line-height: 1.4;
+}
+
+/* Skills descriptions */
+.skill-grid p {
+  font-size: 20px;
+  line-height: 1.65;
+}
+
+/* Employment history: job titles */
+.timeline h3 {
+  font-size: 20px;
+  line-height: 1.4;
+}
+
+/* Employment history: institutions and descriptions */
+.timeline p {
+  font-size: 18px;
+  line-height: 1.65;
+}
+
+/* Employment history: dates */
+.timeline .date {
+  font-size: 16px;
+}
+
+/* Small ABOUT ME label */
+.about-section .eyebrow {
+  font-size: 14px;
+}
