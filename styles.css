@@ -501,19 +501,19 @@ section {
 }
 
 .publication .year {
-  font-size:14px;
+  font-size:18px;
   color:var(--muted);
 }
 
 .publication h3 {
-  font-size:21px;
+  font-size:24px;
   line-height:1.4;
   margin-bottom:8px;
   max-width:850px;
 }
 
 .publication p {
-  font-size:15px;
+  font-size:18px;
   color:var(--muted);
   margin-bottom:0;
 }
