@@ -3,14 +3,14 @@
 
 /* Introduction paragraph */
 .hero .intro {
-  font-size: 32px;
+  font-size: 48px;
   line-height: 1.65;
 }
 
 /* Selected project descriptions and About Me */
 .project-content p,
 .about-section .about-copy {
-  font-size: 22px;
+  font-size: 36px;
   line-height: 1.7;
 }
 
@@ -18,7 +18,7 @@
 .detail-hero .intro,
 .detail-grid article p,
 .detail-grid article li {
-  font-size: 22px;
+  font-size: 36px;
   line-height: 1.7;
 }
 
@@ -30,6 +30,6 @@
   .detail-hero .intro,
   .detail-grid article p,
   .detail-grid article li {
-    font-size: 20px;
+    font-size: 36px;
   }
 }
